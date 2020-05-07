@@ -12,6 +12,17 @@ py.on('json', (json) => {
   console.log(json)
 })
 
+py.on('text', (text) => {
+  console.log(text)
+})
+
+/*
+  To implement
+*/
+py.on('error', (error) => {
+  console.log(error)
+})
+
 ```
 
 and adverserial are belong to you.
