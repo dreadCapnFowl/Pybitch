@@ -26,3 +26,5 @@ py.on('error', (error) => {
 ```
 
 and adverserial are belong to you.
+
+Use sockets to transfer data between scripts.
