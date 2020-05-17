@@ -1,5 +1,5 @@
 # Pybitch
-This  lets you make Python your bitch using NodeJS. Comes with the ELF.
+This  lets you make Python your bitch using NodeJS. Comes with the ELF (hashsum checks out d/w).
 
 ```javascript
 
